@@ -1,4 +1,5 @@
 # webpage-test
 
 Testing HTML with a simple webpage
-about a random fantasy setting. 
+about how to create a random 
+fantasy setting for D&D/TTRPGs. 
